@@ -36,3 +36,49 @@
     transform: rotate(360deg);
   }
 }
+
+.flex {
+  display: flex;
+
+}
+
+.players {
+  padding: 10px;
+  border: 2px solid dimgrey;
+}
+
+.margin-10 {
+  margin: 10px;
+}
+
+.margin-5 {
+  margin: 5px;
+}
+
+.padding-10 {
+  padding: 10px;
+}
+
+.normal-text {
+  color: white;
+  text-decoration: none;
+}
+
+.normal-text-dark {
+  color: black;
+  text-decoration: none;
+}
+
+.normal-text-dark:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.name-text {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.right {
+  float: right;
+}
